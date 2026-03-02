@@ -120,9 +120,9 @@
         <nav>
             <a href="index.php" class="active">Inicio</a>
             <a>Productos</a>
-            <!-- <a>Ventas</a> -->
+            <a>Ventas</a>
             <a href="productos.php">Productos</a>
-            <!-- <a href="ventas.php">Ventas</a> -->
+            <a href="ventas.php">Ventas</a>
         </nav>
     </div>
 
@@ -139,11 +139,11 @@
                 <p>Administra tu inventario: crea, edita, elimina y consulta productos.</p>
             </a>
 
-            <!-- <a href="ventas.php" class="card">
+            <a href="ventas.php" class="card">
                 <div class="icon">🛒</div>
                 <h3>Ventas</h3>
                 <p>Registra nuevas ventas y consulta el historial de transacciones.</p>
-            </a> -->
+            </a>
         </div>
     </div>
 
