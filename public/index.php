@@ -119,10 +119,10 @@
         <h1>Inventario & Ventas</h1>
         <nav>
             <a href="index.php" class="active">Inicio</a>
-            <!-- <a>Productos</a>
-            <a>Ventas</a> -->
-            <!-- <a href="productos.php">Productos</a>
-            <a href="ventas.php">Ventas</a> -->
+            <a>Productos</a>
+            <!-- <a>Ventas</a> -->
+            <a href="productos.php">Productos</a>
+            <!-- <a href="ventas.php">Ventas</a> -->
         </nav>
     </div>
 
@@ -132,19 +132,19 @@
             <p>Gestiona tus productos y registra ventas de manera sencilla y eficiente.</p>
         </div>
 
-        <!-- <div class="cards">
+        <div class="cards">
             <a href="productos.php" class="card">
                 <div class="icon">📦</div>
                 <h3>Productos</h3>
                 <p>Administra tu inventario: crea, edita, elimina y consulta productos.</p>
             </a>
 
-            <a href="ventas.php" class="card">
+            <!-- <a href="ventas.php" class="card">
                 <div class="icon">🛒</div>
                 <h3>Ventas</h3>
                 <p>Registra nuevas ventas y consulta el historial de transacciones.</p>
-            </a>
-        </div> -->
+            </a> -->
+        </div>
     </div>
 
     <footer>
